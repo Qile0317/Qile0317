@@ -4,4 +4,4 @@
 - My research interests include the biology of aging, immunology, bioinformatics, and machine learning. I'm recently also dabbling in entrepreneurship.
 - I'd love to get in touch on [LinkedIn](https://www.linkedin.com/in/qile0317) for any potential work or collaboration opportunities. My cv is available [here](https://qile0317.github.io/cv).
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qile0317&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true", width="400"/>
+![Qile's github stats](https://github-readme-stats.vercel.app/api?username=Qile0317&show_icons=true&theme=tokyonight&include_all_commits=true)
